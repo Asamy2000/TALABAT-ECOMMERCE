@@ -329,8 +329,8 @@ POST /api/Account/login
 
 ```json
 {
-    "Email": "yousef@gmail.com",
-    "Password": "Yousef2*"
+    "Email": "Samy@gmail.com",
+    "Password": "P@ssw0rd*"
 }
 ```
 
@@ -342,10 +342,10 @@ POST /api/Account/register
 
 ```json
 {
-    "DisplayName":"yousef",
-    "Email": "yousef@gmail.com",
-    "Password": "Yousef2*",
-    "PhoneNumber": "01552851677"
+    "DisplayName":"Ahmed",
+    "Email": "Samy@gmail.com",
+    "Password": "P@ssw0rd",
+    "PhoneNumber": "01099259823"
 }
 ```
 
@@ -370,10 +370,10 @@ PUT /api/Account/UpdateCurrentUserAddress
 
 ```json
 {
-    "FirstName": "yousef new",
-    "LastName": "osama new",
-    "street": "42-EltalStreet new",
-    "city": "Warraq-Giza new",
+    "FirstName": "Ahmed",
+    "LastName": "samy",
+    "street": "45-Haroun",
+    "city": "cairo",
     "country": "Egypt new"
 }
 ```
@@ -409,11 +409,11 @@ POST /api/Orders
     "basketId": "basket1",
     "deliveryMethodId": 1,
     "shippingaddress": {
-        "FirstName": "yousef osama",
-        "LastName": "mohamed",
-        "street": "42-EltalStreet new",
-        "city": "Warraq-Giza new",
-        "country": "Egypt new"
+        "FirstName": "Ahmed",
+        "LastName": "Samy",
+        "street": "45-Haroun",
+        "city": "cairo",
+        "country": "Egypt"
     }
 }
 ```

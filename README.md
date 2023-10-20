@@ -509,7 +509,7 @@ Talabat returns the following status codes in its API:
     </a>
 </td>
 
-    </tr>
+  </tr>
 </table>
 <!-- readme: collaborators -end -->
 <h2 align='center'>Thank You. 💖 </h2>

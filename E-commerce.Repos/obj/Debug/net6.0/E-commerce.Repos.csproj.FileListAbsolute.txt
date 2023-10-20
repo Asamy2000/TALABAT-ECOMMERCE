@@ -1,0 +1,15 @@
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\bin\Debug\net6.0\E-commerce.Repos.deps.json
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\bin\Debug\net6.0\E-commerce.Repos.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\bin\Debug\net6.0\E-commerce.Repos.pdb
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\bin\Debug\net6.0\E-commerce.Core.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\bin\Debug\net6.0\E-commerce.Core.pdb
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.csproj.AssemblyReference.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.AssemblyInfoInputs.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.AssemblyInfo.cs
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.csproj.CoreCompileInputs.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.csproj.CopyComplete
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\refint\E-commerce.Repos.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\E-commerce.Repos.pdb
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Repos\obj\Debug\net6.0\ref\E-commerce.Repos.dll

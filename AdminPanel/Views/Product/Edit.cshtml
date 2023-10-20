@@ -1,0 +1,76 @@
+﻿@using E_commerce.Core;
+@using E_commerce.Core.Entities;
+
+@model ProductVM
+
+@{
+    ViewData["Title"] = "Create Product";
+}
+@inject IUnitOfWork _unitOfwork
+@{
+    var Brands = new SelectList(_unitOfwork.Repository<ProductBrand>().GetAllAsync().Result, "Id", "Name");
+    var Types = new SelectList(_unitOfwork.Repository<ProductType>().GetAllAsync().Result, "Id", "Name");
+}
+<div class="container">
+<h2>Edit Product</h2>
+<hr />
+<form asp-action="Edit" asp-controller="Product" method="post" enctype="multipart/form-data">
+    <input hidden asp-for="PicUrl" />
+
+    <div class="form-group mb-4">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control " placeholder="Product Name" />
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+
+    <div class="form-group mb-4">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control " placeholder="Product Description"></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+
+    <div class="form-group mb-4">
+        @if (!string.IsNullOrEmpty(Model.PicUrl))
+        {
+            <img src="~/@Model.PicUrl" width="100px" alt="Product Image" class="img-thumbnail  mb-1" />
+        }
+        <label asp-for="Image"></label>
+        <input asp-for="Image" class="form-control" />
+    </div>
+
+
+    <div class="form-group mb-4">
+        <label asp-for="Price"></label>
+        <input asp-for="Price" class="form-control " placeholder="Product Price " type="number" />
+        <span class="text-danger" asp-validation-for="Price"></span>
+    </div>
+
+    <div class="form-group mb-4">
+        <label asp-for="Brand"></label>
+        <select class="form-control" asp-for="ProductBrandId" asp-items="@Brands">
+            <option value="@null">--Select Brand--</option>
+        </select>
+        <span class="text-danger" asp-validation-for="ProductBrandId"></span>
+    </div>
+
+    <div class="form-group mb-2">
+        <label asp-for="ProductType"></label>
+        <select class="form-control" asp-for="ProductTypeId" asp-items="@Types">
+            <option value="@null">--Select Type--</option>
+        </select>
+        <span class="text-danger" asp-validation-for="ProductTypeId"></span>
+    </div>
+
+
+
+    <div class="input-group mt-2 ">
+        <button type="submit" class="btn btn-primary m-2">Edit</button>
+        <a asp-action="Index" asp-controller="Product" class="btn btn-secondary m-2">Back</a>
+    </div>
+</form>
+</div>
+
+@section Scripts
+    {
+    <partial name="_ValidationScriptsPartial" />
+}

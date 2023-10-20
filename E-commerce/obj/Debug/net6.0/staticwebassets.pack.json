@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\boot-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\boot-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\boot-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\boot-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-core2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\boot-redis1.png",
+      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\glove-code1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\glove-code2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-code2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\glove-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\glove-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\glove-react2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\hat-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-core1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\hat-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\hat-react2.png",
+      "PackagePath": "staticwebassets\\images\\products\\hat-react2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-ang1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-ang2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-core1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-core2.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-core2.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-react1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-react1.png"
+    },
+    {
+      "Id": "D:\\web\\backend\\39\\06API\\E-commerceAPP\\E-commerce\\wwwroot\\images\\products\\sb-ts1.png",
+      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.E-commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.E-commerce.props",
+      "PackagePath": "build\\E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.E-commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.E-commerce.props",
+      "PackagePath": "buildTransitive\\E-commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

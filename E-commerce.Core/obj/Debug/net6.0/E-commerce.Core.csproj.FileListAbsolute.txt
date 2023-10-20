@@ -1,0 +1,12 @@
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\bin\Debug\net6.0\E-commerce.Core.deps.json
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\bin\Debug\net6.0\E-commerce.Core.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\bin\Debug\net6.0\E-commerce.Core.pdb
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.csproj.AssemblyReference.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.AssemblyInfoInputs.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.AssemblyInfo.cs
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.csproj.CoreCompileInputs.cache
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\refint\E-commerce.Core.dll
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\E-commerce.Core.pdb
+D:\web\backend\39\06API\E-commerceAPP\E-commerce.Core\obj\Debug\net6.0\ref\E-commerce.Core.dll

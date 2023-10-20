@@ -1,0 +1,23 @@
+﻿@using E_commerce.Core.Entities;
+@model ProductBrand
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="container">
+<h1>Edit Brand</h1>
+<hr />
+<form method="post" asp-action="Edit" class="mt-4">
+    <input asp-for="Id" class="form-control" hidden />
+    <div class="form-group m-2">
+        <label asp-for="Name" ></label>
+
+        <input asp-for="Name" class="form-control " />
+        <span class="text-danger" asp-validation-for="Name"></span>
+
+        <div class="input-group mt-2 justify-content-center">
+            <button type="submit" class="btn  btn-success m-2">Save</button>
+            <a class="btn btn-secondary  m-2" asp-action="Index">Back To List</a>
+        </div>
+    </div>
+</form>
+</div>
